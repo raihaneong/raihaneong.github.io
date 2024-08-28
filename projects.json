@@ -1,144 +1,144 @@
 {
     "projects": [
-        [
+
             {
                 "name": "meme generator",
                 "link": "https://raihaneong.github.io/meme-generator/",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "airbnb clone",
                 "link": "https://raihaneong.github.io/airbnb-clone",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "react fun fact",
                 "link": "https://rhn-reactfacts.netlify.app",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "dummy-cart",
                 "link": "https://dummy-cart.netlify.app",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "movieland",
                 "link": "https://rhn-movieland.netlify.app",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "gericht restaurant",
                 "link": "https://rhn-gericht-restaurant.netlify.app",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "survey form",
                 "link": "https://codepen.io/raihaneong/pen/NWvWqaN",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "tribute page",
                 "link": "https://codepen.io/raihaneong/pen/eYEOaZR",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "technical documentation",
                 "link": "https://codepen.io/raihaneong/pen/dyzomYQ",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "product landing page",
                 "link": "https://codepen.io/raihaneong/pen/Vwzwyjb",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "simple portfolio page",
                 "link": "https://codepen.io/raihaneong/pen/NWvdqed",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "blackjack",
                 "link": "https://replit.com/@raihaneong/black-jack#main.py",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "rock paper scissor",
                 "link": "https://replit.com/@raihaneong/guntingbatukertas#main.py",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "moivesta",
                 "link": "https://",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "weatherer",
                 "link": "https://",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "untime",
                 "link": "https://",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "voxelarization",
                 "link": "https://",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "tetrisify",
                 "link": "https://",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "untime",
                 "link": "https://",
                 "description": "aDescription"
             }
-        ],
-        [
+        ,
+        
             {
                 "name": "untime",
                 "link": "https://",
                 "description": "aDescription"
             }
-        ]
+        
     ]
 }
