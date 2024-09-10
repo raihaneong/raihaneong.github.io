@@ -1,5 +1,4 @@
 
-// todo: loop the data from projects.json
 
 document.addEventListener("DOMContentLoaded", function () {
     fetch("projects.json")
