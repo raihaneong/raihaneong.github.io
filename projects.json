@@ -4,140 +4,140 @@
             {
                 "name": "meme generator",
                 "link": "https://raihaneong.github.io/meme-generator/",
-                "description": "aDescription"
+                "description": "A simple image editor design to create meme"
             }
         ,
         
             {
                 "name": "airbnb clone",
                 "link": "https://raihaneong.github.io/airbnb-clone",
-                "description": "aDescription"
+                "description": "An imitation of https://www.airbnb.com/"
             }
         ,
         
             {
                 "name": "react fun fact",
                 "link": "https://rhn-reactfacts.netlify.app",
-                "description": "aDescription"
+                "description": "Static website with no intention of ..."
             }
         ,
         
             {
                 "name": "dummy-cart",
                 "link": "https://dummy-cart.netlify.app",
-                "description": "aDescription"
+                "description": "A simple e-commerce website"
             }
         ,
         
             {
                 "name": "movieland",
                 "link": "https://rhn-movieland.netlify.app",
-                "description": "aDescription"
+                "description": "A movie database (from youtube JavaScript Mastery"
             }
         ,
         
             {
                 "name": "gericht restaurant",
                 "link": "https://rhn-gericht-restaurant.netlify.app",
-                "description": "aDescription"
+                "description": "Imitation of business landing page (from youtube JavaScript Mastery"
             }
         ,
         
             {
                 "name": "survey form",
                 "link": "https://codepen.io/raihaneong/pen/NWvWqaN",
-                "description": "aDescription"
+                "description": "freecodecamp projects"
             }
         ,
         
             {
                 "name": "tribute page",
                 "link": "https://codepen.io/raihaneong/pen/eYEOaZR",
-                "description": "aDescription"
+                "description": "freecodecamp projects"
             }
         ,
         
             {
                 "name": "technical documentation",
                 "link": "https://codepen.io/raihaneong/pen/dyzomYQ",
-                "description": "aDescription"
+                "description": "freecodecamp projects"
             }
         ,
         
             {
                 "name": "product landing page",
                 "link": "https://codepen.io/raihaneong/pen/Vwzwyjb",
-                "description": "aDescription"
+                "description": "freecodecamp projects"
             }
         ,
         
             {
                 "name": "simple portfolio page",
                 "link": "https://codepen.io/raihaneong/pen/NWvdqed",
-                "description": "aDescription"
+                "description": "freecodecamp projects"
             }
         ,
         
             {
                 "name": "blackjack",
                 "link": "https://replit.com/@raihaneong/black-jack#main.py",
-                "description": "aDescription"
+                "description": "mini game of probability"
             }
         ,
         
             {
                 "name": "rock paper scissor",
                 "link": "https://replit.com/@raihaneong/guntingbatukertas#main.py",
-                "description": "aDescription"
+                "description": "mini game of probability"
             }
         ,
         
             {
                 "name": "moivesta",
                 "link": "https://",
-                "description": "aDescription"
+                "description": "movie database"
             }
         ,
         
             {
                 "name": "weatherer",
                 "link": "https://",
-                "description": "aDescription"
+                "description": "weather predictor"
             }
         ,
         
             {
                 "name": "untime",
                 "link": "https://",
-                "description": "aDescription"
+                "description": "An always ticking clock"
             }
         ,
         
             {
                 "name": "voxelarization",
                 "link": "https://",
-                "description": "aDescription"
+                "description": "voxel playground"
             }
         ,
         
             {
                 "name": "tetrisify",
                 "link": "https://",
-                "description": "aDescription"
+                "description": "a tetris-like game"
             }
         ,
         
             {
                 "name": "untime",
                 "link": "https://",
-                "description": "aDescription"
+                "description": "An always ticking clock"
             }
         ,
         
             {
                 "name": "untime",
                 "link": "https://",
-                "description": "aDescription"
+                "description": "An always ticking clock"
             }
         
     ]
